@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-to
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-to&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 （情報まとめ中...）
 
