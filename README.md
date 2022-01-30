@@ -8,6 +8,6 @@
 - Microsoft MVP for Developer Technologies - [Profile](https://mvp.microsoft.com/en-us/PublicProfile/5004576)
 
 ### Communities
-- [ビジュアルプログラミング交流会] - [Facebookグループ](https://www.facebook.com/groups/visualprogramming.jp/), [connpass のグループ](https://visualprogramming.connpass.com/)
+- ビジュアルプログラミング交流会 - [Facebookグループ](https://www.facebook.com/groups/visualprogramming.jp/), [connpass のグループ](https://visualprogramming.connpass.com/)
 
 （情報まとめ中...）
