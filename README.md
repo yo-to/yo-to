@@ -7,7 +7,7 @@
 [<img src="https://user-images.githubusercontent.com/37477845/94176882-b0716f00-fed3-11ea-8254-dbff72e992e2.png" width="32px">](https://speakerdeck.com/you)
 - Microsoft MVP for Developer Technologies - [Profile](https://mvp.microsoft.com/en-us/PublicProfile/5004576)
 
-### Communities
+### Communities （主催コミュニティ）
 - ビジュアルプログラミング交流会 【単独主催】
    - [Facebookグループ](https://www.facebook.com/groups/visualprogramming.jp/)、 [connpass のグループ](https://visualprogramming.connpass.com/)
 - ビジュアルプログラミングIoTLT（IoTLTのスピンオフ） 【2人で共同主催】
