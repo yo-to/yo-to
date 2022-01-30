@@ -8,9 +8,13 @@
 - Microsoft MVP for Developer Technologies - [Profile](https://mvp.microsoft.com/en-us/PublicProfile/5004576)
 
 ### Communities
-- ビジュアルプログラミング交流会 【単独主催】 - [Facebookグループ](https://www.facebook.com/groups/visualprogramming.jp/)、 [connpass のグループ](https://visualprogramming.connpass.com/)
-- ビジュアルプログラミングIoTLT（IoTLTのスピンオフ） 【2人で共同主催】 - [IoTLT の Facebookグループ](https://www.facebook.com/groups/IoTLT/)、 [IoTLT の connpass のグループ](https://iotlt.connpass.com/)
-- toioで作ってみた！友の会（非公式） 【3人で共同主催】 - [Facebookグループ](https://www.facebook.com/groups/toiotomo/), [connpass のグループ](https://toiotomo.connpass.com/)
-- ゆるメカトロ 【3人で共同主催】 - [Facebookグループ](https://www.facebook.com/groups/yurumect/)、 [connpass のグループ](https://yurumect.connpass.com/)
+- ビジュアルプログラミング交流会 【単独主催】
+--- [Facebookグループ](https://www.facebook.com/groups/visualprogramming.jp/)、 [connpass のグループ](https://visualprogramming.connpass.com/)
+- ビジュアルプログラミングIoTLT（IoTLTのスピンオフ） 【2人で共同主催】
+--- [IoTLT の Facebookグループ](https://www.facebook.com/groups/IoTLT/)、 [IoTLT の connpass のグループ](https://iotlt.connpass.com/)
+- toioで作ってみた！友の会（非公式） 【3人で共同主催】
+--- [Facebookグループ](https://www.facebook.com/groups/toiotomo/), [connpass のグループ](https://toiotomo.connpass.com/)
+- ゆるメカトロ 【3人で共同主催】
+--- [Facebookグループ](https://www.facebook.com/groups/yurumect/)、 [connpass のグループ](https://yurumect.connpass.com/)
 
 （情報まとめ中...）
