@@ -8,6 +8,8 @@
 [<img src="https://user-images.githubusercontent.com/37477845/94176882-b0716f00-fed3-11ea-8254-dbff72e992e2.png" width="32px">](https://speakerdeck.com/you)
 - [Amazon Author Page](https://www.amazon.co.jp/~/e/B09T98JCMD)
 - [ProtoPedia](https://protopedia.net/prototyper/youtoy)
+- [YouTube]([https://protopedia.net/prototyper/youtoy](https://www.youtube.com/@youtoy))
+
 
 ### Communities（主催コミュニティ）
 - ビジュアルプログラミング交流会 【単独主催】
