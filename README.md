@@ -16,16 +16,15 @@
 ### Communities（主催コミュニティ）
 - ビジュアルプログラミング交流会 【単独主催】
    - [Facebookグループ](https://www.facebook.com/groups/visualprogramming.jp/)
-   - [connpass のグループ](https://visualprogramming.connpass.com/)
-   - <a href="https://visualprogramming.connpass.com/" rel="noreferrer">connpass のグループ</a>
+   - [connpass のグループ](https://visualprogramming.connpass.com/) ※ 遷移後、要再読み込み（403のページにて）
 - ビジュアルプログラミングIoTLT（IoTLTのスピンオフ） 【2人で共同主催】
    - [IoTLT の Facebookグループ](https://www.facebook.com/groups/IoTLT/)
-   - [IoTLT の connpass のグループ](https://iotlt.connpass.com/)
+   - [IoTLT の connpass のグループ](https://iotlt.connpass.com/) ※ 遷移後、要再読み込み（403のページにて）
 - toioで作ってみた！友の会（非公式） 【3人で共同主催】
    - [Facebookグループ](https://www.facebook.com/groups/toiotomo/)
-   - [connpass のグループ](https://toiotomo.connpass.com/)
+   - [connpass のグループ](https://toiotomo.connpass.com/) ※ 遷移後、要再読み込み（403のページにて）
 - ゆるメカトロ 【3人で共同主催】
    - [Facebookグループ](https://www.facebook.com/groups/yurumect/)
-   - [connpass のグループ](https://yurumect.connpass.com/)
+   - [connpass のグループ](https://yurumect.connpass.com/) ※ 遷移後、要再読み込み（403のページにて）
 
 （情報まとめ中...）
