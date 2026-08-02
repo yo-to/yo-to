@@ -7,6 +7,7 @@
 [<img src="https://cdn.simpleicons.org/qiita?viewbox=auto" width="32" height="32" alt="Qiita">](https://qiita.com/youtoy)
 [<img src="./assets/icons/hatenablog-logo.svg" width="32" height="32" alt="はてなブログ">](https://yo-to.hatenablog.com/)
 [<img src="https://user-images.githubusercontent.com/37477845/94176882-b0716f00-fed3-11ea-8254-dbff72e992e2.png" width="32px">](https://speakerdeck.com/you)
+[<img src="https://cdn.simpleicons.org/speakerdeck?viewbox=auto" width="32" height="32" alt="Speaker Deck">](https://speakerdeck.com/you)
 - [Amazon Author Page](https://www.amazon.co.jp/~/e/B09T98JCMD)
 - [ProtoPedia](https://protopedia.net/prototyper/youtoy)
 - [YouTube](https://www.youtube.com/@youtoy)
