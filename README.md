@@ -17,6 +17,7 @@
 - ビジュアルプログラミング交流会 【単独主催】
    - [Facebookグループ](https://www.facebook.com/groups/visualprogramming.jp/)
    - [connpass のグループ](https://visualprogramming.connpass.com/)
+   - <a href="https://visualprogramming.connpass.com/" rel="noreferrer">connpass のグループ</a>
 - ビジュアルプログラミングIoTLT（IoTLTのスピンオフ） 【2人で共同主催】
    - [IoTLT の Facebookグループ](https://www.facebook.com/groups/IoTLT/)
    - [IoTLT の connpass のグループ](https://iotlt.connpass.com/)
