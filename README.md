@@ -4,9 +4,8 @@
 <!-- - Microsoft MVP for Developer Technologies - [Profile](https://mvp.microsoft.com/en-us/PublicProfile/5004576)-->
 - Microsoft MVP for Developer Technologies - [Profile](https://mvp.microsoft.com/ja-JP/MVP/profile/0c55ff25-3f88-40c4-baaf-7524c8317a47)
 - [<img src="https://cdn.simpleicons.org/x/000000/FFFFFF?viewbox=auto" width="32" height="32" alt="X">](https://x.com/youtoy)
-[<img src="https://user-images.githubusercontent.com/37477845/94174258-06dcae80-fed0-11ea-9d11-b6ef832e54a4.png" width="32px">](https://yo-to.hatenablog.com/)
-[<img src="./assets/icons/hatenablog.svg" width="32" height="32" alt="はてなブログ">](https://yo-to.hatenablog.com/)
 [<img src="https://cdn.simpleicons.org/qiita?viewbox=auto" width="32" height="32" alt="Qiita">](https://qiita.com/youtoy)
+[<img src="./assets/icons/hatenablog.svg" width="32" height="32" alt="はてなブログ">](https://yo-to.hatenablog.com/)
 [<img src="https://user-images.githubusercontent.com/37477845/94176882-b0716f00-fed3-11ea-8254-dbff72e992e2.png" width="32px">](https://speakerdeck.com/you)
 - [Amazon Author Page](https://www.amazon.co.jp/~/e/B09T98JCMD)
 - [ProtoPedia](https://protopedia.net/prototyper/youtoy)
